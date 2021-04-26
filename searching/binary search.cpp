@@ -30,7 +30,7 @@ int main()
 }
 
 //Binary search
-//Decrease and conquer algorihtm (not divide and conquer)
+//Decrease and conquer algorithm (not divide and conquer)
 //Elements must be sorted
 //Here we find the mid element of the array
 //Then we compare this with the key value (whether it is greater or smaller)
