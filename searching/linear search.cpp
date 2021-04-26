@@ -1,4 +1,4 @@
-//Linear search
+//Linear search --O(n)
 //It is a sequential search
 //Take input of size and key(element to be searched)
 //The linearSearch function returns the index value of the key if the key is found else returns the value -1
