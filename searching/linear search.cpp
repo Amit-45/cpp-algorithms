@@ -1,4 +1,3 @@
-
 //Linear search
 //Take input of size and key(element to be )
 //The linearSearch function returns the index value of the key if the key is found else returns the value -1
